@@ -21,11 +21,11 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "54000")
 )
 
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002197313138)
 
-OWNER_ID = int(getenv("OWNER_ID", "6987821999"))
+OWNER_ID = int(getenv("OWNER_ID", "6556557284"))
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "@Queen_of_heart_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Ryna_music_bot)
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+w9QphPiwqIQ5Y2Zl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+rCTz82Fv96NhMzc9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Stylish_font_City")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Dil_kiduniya")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -135,3 +135,4 @@ if SUPPORT_CHAT:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://"
         )
+        
