@@ -12,5 +12,5 @@
     ─「ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KRISHtg/queenmusicbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<h3 align="center">
+
+[![Deploy To Heroku](https://te.legra.ph/file/d6f80a3be8e02b0b6fe70.jpg)](https://dashboard.heroku.com/new-app?template=https://github.com/KRISHtg/queenmusicbot)
