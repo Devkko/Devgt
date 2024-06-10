@@ -50,7 +50,7 @@ async def init():
         pass
     await Dil.decorators()
     LOGGER("AarohiX").info(
-        "ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ, ɴᴏᴡ ɢɪʙ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ ᴄʜᴜᴛ ɪɴ @krishoffical2 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗞𝗥𝗜𝗦𝗛"
+        "ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ, ɴᴏᴡ ɢɪʙ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ ᴄʜᴜᴛ ɪɴ @queen_suportgroup 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗞𝗥𝗜𝗦𝗛"
     )
     await idle()
     await app.stop()
