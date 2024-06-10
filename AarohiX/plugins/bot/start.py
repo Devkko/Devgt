@@ -28,11 +28,11 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "hhttps://te.legra.ph/file/dea69b6de713db64628d5.jpg",
-    "https://te.legra.ph/file/cbdc7b55600c7f7c982be.jpg",
-    "https://graph.org/file/f76fd86d1936d45a63c64.jpg",
-    "https://te.legra.ph/file/799211ecd1dfb26d70ea0.jpg",
-    "https://te.legra.ph/file/6d585197af34afd4bb740.jpg",
+    "https://te.legra.ph/file/f3f6199335b19e28855c0.jpg",
+    "https://te.legra.ph/file/a6e9fd22dd55fbcf97ed6.jpg",
+    "https://te.legra.ph/file/fa2f483098c01efb9b27f.jpg",
+    "https://te.legra.ph/file/0a5de19aa71401690c3f6.jpg",
+    "https://te.legra.ph/file/ce8a9ef32342469b65a82.jpg",
     "https://te.legra.ph/file/8020cf0424c438f36dafb.jpg",
     "https://te.legra.ph/file/88d38fe8a1d4560a3b6e5.jpg",
     "https://te.legra.ph/file/501a638b8917f978e7e1d.jpg",
