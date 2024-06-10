@@ -39,6 +39,8 @@ ANNIE_VID = [
     "https://te.legra.ph/file/67b3cbaa39ca5b8c68633.jpg",
     "https://te.legra.ph/file/31b8d89e7bde2b1b53871.jpg"
 ]
+ANNIE1_VID = [
+    "https://te.legra.ph/file/577d3ed943a114a698071.mp4",
 
 STICKERS = [
     "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
@@ -135,7 +137,7 @@ async def start_gp(client, message: Message, _):
     out = start_panel(_)
     uptime = int(time.time() - _boot_)
     await message.reply_photo(
-        random.choice(ANNIE_VID),
+        random.choice(ANNIE1_VID),
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
     )
