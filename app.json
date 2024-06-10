@@ -1,7 +1,7 @@
 {
-    "name": "KRISH MUSIC",
+    "name": "˹ᴀᴀʀᴏʜɪ ˼ [V2]",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/50365e81032599cf153d7.jpg",
+    "logo": "https://telegra.ph/file/312bf3022b3f673cdf374.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6987821999",
+        "value": "2107529793",
         "required": true
       },
       "STRING_SESSION": {
@@ -51,11 +51,6 @@
         "description": "Your heroku app name",
         "value": "",
         "required": false
-      },
-        "DEEP_API": {
-            "description": "Your DEEP API key from https://deepai.org/",
-            "value": "",
-            "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
