@@ -33,11 +33,11 @@ ANNIE_VID = [
     "https://te.legra.ph/file/fa2f483098c01efb9b27f.jpg",
     "https://te.legra.ph/file/0a5de19aa71401690c3f6.jpg",
     "https://te.legra.ph/file/ce8a9ef32342469b65a82.jpg",
-    "https://te.legra.ph/file/8020cf0424c438f36dafb.jpg",
-    "https://te.legra.ph/file/88d38fe8a1d4560a3b6e5.jpg",
-    "https://te.legra.ph/file/501a638b8917f978e7e1d.jpg",
-    "https://te.legra.ph/file/67b3cbaa39ca5b8c68633.jpg",
-    "https://te.legra.ph/file/31b8d89e7bde2b1b53871.jpg"
+    "https://telegra.ph/file/3bad67e33236a23cf71d8.jpg",
+    "https://telegra.ph/file/c2831f2c850abf744ad57.jpg",
+    "https://telegra.ph/file/927a60d2390c8b059f0b0.jpg",
+    "https://telegra.ph/file/d2fffaf8d468f9333ee78.jpg",
+    "https://telegra.ph/file/7e3bbf35f3dd3403dbb67.jpg"
 ]
 ANNIE1_VID = [
     "https://te.legra.ph/file/577d3ed943a114a698071.mp4",
