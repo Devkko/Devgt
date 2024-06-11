@@ -30,7 +30,7 @@ from strings import get_string
 ANNIE_VID = [
     "https://te.legra.ph/file/f3f6199335b19e28855c0.jpg",
     "https://te.legra.ph/file/a6e9fd22dd55fbcf97ed6.jpg",
-    "https://te.legra.ph/file/fa2f483098c01efb9b27f.jpg",
+    "https://telegra.ph/file/42a0534a4a06ee3b988d1.jpg",
     "https://te.legra.ph/file/0a5de19aa71401690c3f6.jpg",
     "https://te.legra.ph/file/ce8a9ef32342469b65a82.jpg",
     "https://telegra.ph/file/3bad67e33236a23cf71d8.jpg",
