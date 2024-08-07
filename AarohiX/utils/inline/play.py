@@ -68,11 +68,11 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text="ᴏᴡɴᴇʀ",
-                url=f"https://t.me/Its_Jeet_tg",
+                url=f"https://t.me/OWNER_DEV",
             ),
             InlineKeyboardButton(
                 text="ᴜᴘᴅᴀᴛᴇ",
-                url=f"https://t.me/Stylish_font_City",
+                url=f"https://t.me/FRIENDSOFHEAVEN",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -91,11 +91,11 @@ def stream_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text="ᴏᴡɴᴇʀ",
-                url=f"https://t.me/Its_Jeet_tg",
+                url=f"https://t.me/OWNER_DEV",
             ),
             InlineKeyboardButton(
                 text="ᴜᴘᴅᴀᴛᴇ",
-                url=f"https://t.me/Stylish_font_City",
+                url=f"https://t.me/FRIENDSOFHEAVEN",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
