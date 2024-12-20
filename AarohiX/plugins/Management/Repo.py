@@ -27,11 +27,11 @@ async def start(_, msg):
           InlineKeyboardButton("⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/queen_suportgroup"),
-          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Its_queen_tg"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="[˹ᴅᴇᴠ˼](https://t.me/DEV_UPDATE)"),
+          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/DEV_UPDATE"),
         ],
         [
-          InlineKeyboardButton("ᴍᴜsɪᴄ ʙᴏᴛ ʀᴇᴘᴏ", url=f"https://github.com/KRISHtg/queenmusicbot"),
+          InlineKeyboardButton("˹ᴅᴇᴠ˼", url=f"https://t.me/DEV_UPDATE"),
         ]
     ]
     
@@ -62,7 +62,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[ʀᴇᴘᴏ](https://github.com/KRISHtg/queenmusicbot) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/queen_suportgroup)
+        text = f"""[˹ᴅᴇᴠ˼](https://t.me/DEV_UPDATE) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/DEV_UPDATE)
 | ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs |
 ----------------
 {list_of_users}"""
