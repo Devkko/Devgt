@@ -13,4 +13,4 @@
 </h3>
 
 
-[![Deploy To Heroku](https://te.legra.ph/file/d6f80a3be8e02b0b6fe70.jpg)](https://dashboard.heroku.com/new-app?template=https://github.com/KRISHtg/queenmusicbot)
+[![Deploy To Heroku](https://te.legra.ph/file/d6f80a3be8e02b0b6fe70.jpg)](https://dashboard.heroku.com/new-app?template=https://github.com/Debojitooo/Dev)
