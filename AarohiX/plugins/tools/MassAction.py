@@ -1,6 +1,7 @@
 from pyrogram import Client, enums, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery, ChatPermissions, Message
 from AarohiX import app
+from os import getenv
 from config import BANNED_USERS 
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
